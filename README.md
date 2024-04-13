@@ -62,20 +62,18 @@ The robot will be awarded 5, 10, 15, or 30 points for each colored or letter vic
 
 Suppose the robot can successfully deliver a rescue kit close to a victim.In that case, it will earn an additional 10 points per rescue kit. The number of maximum extra points depends on the type of victim.
 
-また、ロボットは被災者の近くにレスキューキットを確実に届けられる必要があり、レスキューキットの個数ごとに10ポイントを追加で獲得できます。獲得できる追加ポイントは被災者の種類によります。
-
 - 20 points for harmed letter victims
 - 10 points for stable letter victims
 - No additional points for an unharmed letter victim 
-
-- 傷ついた文字被災者には20点
-- しっかりした文字被災者には10点
-- 傷ついていない文字被災者では追加得点は得られません。
-
 - 20 points for a red-colored victim
 - 10 points for a yellow-colored victim
 - No additional points for a green-colored victim
+
+また、ロボットは被災者の近くにレスキューキットを確実に届けられる必要があり、レスキューキットの個数ごとに10ポイントを追加で獲得できます。獲得できる追加ポイントは被災者の種類によります。
   
+- 傷ついた文字被災者には20点
+- しっかりした文字被災者には10点
+- 傷ついていない文字被災者では追加得点は得られません。
 - 赤色の被災者には20点
 - 黄色の被災者には10点
 - 緑色の被災者では追加得点はえられません。
